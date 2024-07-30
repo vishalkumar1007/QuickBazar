@@ -1,0 +1,8 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "Ionicons",
+        "Signup"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
